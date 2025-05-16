@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+const availableImg = ["nie2024survey","yang2023investlm","pan2024application","benhenda2025finrl"];
